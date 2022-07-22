@@ -11,3 +11,4 @@ Every section have 1 pdf Exercises file & Solutions about them.
 - [Section 7](https://github.com/tranthanhduy/Bash-study/tree/main/section7)
 - [Section 8](https://github.com/tranthanhduy/Bash-study/tree/main/section8)
 - [Section 9](https://github.com/tranthanhduy/Bash-study/tree/main/section9)
+- [Section 10](https://github.com/tranthanhduy/Bash-study/tree/main/section10)
